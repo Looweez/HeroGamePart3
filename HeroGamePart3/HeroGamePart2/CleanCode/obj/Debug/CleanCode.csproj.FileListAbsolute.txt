@@ -1,0 +1,22 @@
+C:\Users\louis\Source\Repos\HeroGamePart2\CleanCode\obj\Debug\CleanCode.csproj.AssemblyReference.cache
+C:\Users\louis\Source\Repos\HeroGamePart2\CleanCode\obj\Debug\CleanCode.Form1.resources
+C:\Users\louis\Source\Repos\HeroGamePart2\CleanCode\obj\Debug\CleanCode.Properties.Resources.resources
+C:\Users\louis\Source\Repos\HeroGamePart2\CleanCode\obj\Debug\CleanCode.csproj.GenerateResource.cache
+C:\Users\louis\Source\Repos\HeroGamePart2\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\Louise\Documents\vega\GADE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.csproj.AssemblyReference.cache
+C:\Users\Louise\Documents\vega\GADE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.Form1.resources
+C:\Users\Louise\Documents\vega\GADE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.Properties.Resources.resources
+C:\Users\Louise\Documents\vega\GADE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.csproj.GenerateResource.cache
+C:\Users\Louise\Documents\vega\GADE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\Louise\Documents\vega\GADE\HeroGamePart2\CleanCode\bin\Debug\CleanCode.exe.config
+C:\Users\Louise\Documents\vega\GADE\HeroGamePart2\CleanCode\bin\Debug\CleanCode.exe
+C:\Users\Louise\Documents\vega\GADE\HeroGamePart2\CleanCode\bin\Debug\CleanCode.pdb
+C:\Users\Louise\Documents\vega\GADE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.exe
+C:\Users\Louise\Documents\vega\GADE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.pdb
+C:\Users\Louise\Documents\vega\GADE\ITS THIS ONE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.csproj.AssemblyReference.cache
+C:\Users\Louise\Documents\vega\GADE\ITS THIS ONE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.Form1.resources
+C:\Users\Louise\Documents\vega\GADE\ITS THIS ONE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.Properties.Resources.resources
+C:\Users\Louise\Documents\vega\GADE\ITS THIS ONE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.csproj.GenerateResource.cache
+C:\Users\Louise\Documents\vega\GADE\ITS THIS ONE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\Louise\Documents\vega\GADE\ITS THIS ONE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.exe
+C:\Users\Louise\Documents\vega\GADE\ITS THIS ONE\HeroGamePart2\CleanCode\obj\Debug\CleanCode.pdb
